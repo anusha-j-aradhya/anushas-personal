@@ -1,0 +1,139 @@
+HTML CHEAT SHEET
+ Berners-Lee invented it back in 1991. Today HTML5 is the standard
+ version and it's supported by all modern web browsers. Our HTML
+ cheat sheet gives you a full list of all the HTML elements, including
+ descriptions, code examples and live previews. Simply scroll down to
+ browse all HTML tags alphabetically or browse tags by their
+ category.
+ a element
+ abbr element
+ address
+ element
+ area element
+ article element
+ aside element
+ audio element
+ b element
+ base element
+ bdi element
+ bdo element
+ blockquote
+ element
+ body element
+ br element
+ button
+ element
+ canvas
+ element
+ caption
+ element
+ cite element
+ code elemen
+ col element
+ colgroup
+ element
+ data element
+ datalist
+ element
+ dd element
+ del element
+ details element
+ del element
+ details element
+ dfn element
+ dialog element
+ div element
+ dl element
+ dt element
+ em element
+ embed
+ element
+ တဠeldset
+ element
+ တဠgcaption
+ element
+ တဠgure element
+ footer element
+ form element
+ h1 to h6
+ element
+ head element
+ header
+ element
+ hgroup
+ element
+ hr element
+ html element
+ i element
+ iframe element
+ img element
+ input element
+ ins element
+ kbd element
+ label element
+ legend
+ label element
+ legend
+ element
+ li element
+ link element
+ main element
+ map element
+ mark element
+ menu element
+ meta element
+ meter element
+ nav element
+ noscript
+ element
+ object element
+ ol element
+ optgroup
+ element
+ option element
+ output
+ element
+ p element
+ param element
+ pre element
+ progress
+ element
+ q element
+ rp element
+ rt element
+ ruby element
+ s element
+ samp element
+ script element
+ section
+ script element
+ section
+ element
+ select element
+ small element
+ source
+ element
+ span element
+ strong element
+ style element
+ sub element
+ summary
+ element
+ sup element
+ table element
+ tbody element
+ td element
+ textarea
+ element
+ tfoot element
+ th element
+ thead element
+ time element
+ title element
+ tr element
+ track element
+ ul element
+ var element
+ video element
+ wbr element
+ HTML (Hypertext Markup Language) has come a long
