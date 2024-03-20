@@ -1,0 +1,53 @@
+ HTML TAG
+ Speciတဠes an html document. The HTML <html> element (or HTML
+ root element) represents the root of an HTML document. All other
+ elements must be descendants of this element. Since the <html>
+ element is the တဠrst in a document other than comments, it is called
+ the root element. Although this tag can be implied, or not required,
+ with HTML, it is required to be opened and closed in XHTML.
+ Attributes (modiတဠers)
+ xmlns + global attributes
+ Code example
+  Back to categories
+ Basic HTML
+ Elements
+ Metadata
+ HTML
+ Elements
+ Content
+ Sectioning
+ HTML
+ Elements
+ Content
+ Elements
+ Content
+ Grouping
+ HTML
+ Elements
+ Text Level
+ Semantic
+ HTML
+ Elements
+ Table HTML
+ Table HTML
+ Elements
+ Form HTML
+ Elements
+ Content
+ Embedding
+ HTML
+ Elements
+ Images &
+ Images &
+ Multimedia
+ HTML
+ Elements
+ Global HTML
+ Attributes
+ New Tags in
+ HTML5
+ <!DOCTYPE html>
+ <html>
+  <head>...</head>
+  <body>...</body>
+ </html
